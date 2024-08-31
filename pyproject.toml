@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "verisatlas-kg"
+version = "0.1.0"
+description = "A mapping of the VERIS Incident Reports wth the Mitre Atlas framework."
+authors = ["snyata <core@synavate.tech>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+quart = "^0.19.6"
+sqlalchemy = "^2.0.32"
+stix2 = "^3.0.1"
+tqdm = "^4.66.5"
+pymongo = "^4.8.0"
+motor = "^3.5.1"
+python-dotenv = "^1.0.1"
+pydantic = "^2.8.2"
+rustworkx = "^0.15.1"
+pyarrow = "^17.0.0"
+uuid = "^1.30"
+scikit-learn = "^1.5.1"
+
+
+[tool.poetry.group.dev.dependencies]
+isort = "^5.13.2"
+pytest = "^8.3.2"
+seaborn = "^0.13.2"
+matplotlib = "^3.9.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
