@@ -1,7 +1,8 @@
 # VERISAtlas
 ## Unified Industry Threat Data Analysis  🤗 🦾⚔️ 🤗
 
-![Version](https://img.shields.io/badge/version-v0.0.1-blue)![Release](https://img.shields.io/badge/release-latest-green)![CodeCoverage](https://img.shields.io/codecov/c/gh/orion-constellation/VERISAtlas/main)![Tests](https://github.com/orion-constellation/VERISAtlas/actions/workflows/ci.yml/badge.svg?branch=develop)
+![Version](https://img.shields.io/badge/version-v0.0.1-blue)![GitHub branch status](https://img.shields.io/github/checks-status/orion-constellation/VERISAtlas/main)
+![Release](https://img.shields.io/badge/release-latest-green)![CodeCoverage](https://img.shields.io/codecov/c/gh/orion-constellation/VERISAtlas/main)![Tests](https://github.com/orion-constellation/VERISAtlas/actions/workflows/ci.yml/badge.svg?branch=develop)
 
 
 ## Objective

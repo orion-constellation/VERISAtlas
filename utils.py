@@ -1,6 +1,7 @@
 from random import choice
 from tqdm import tqdm
 
+
 def random_sample(dataset, num=5):
     for i in tqdm(range(num)):
         random_sample = choice(range(len(dataset)))

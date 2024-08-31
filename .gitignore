@@ -18,6 +18,7 @@ cargo.lock
 target/
 .DS_Store/
 codecov.yml
+.dockerignore
 
 
 # C extensions

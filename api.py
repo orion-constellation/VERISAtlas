@@ -9,6 +9,7 @@ import json
 from typing import List, Dict
 
 import os
+
 app = Quart(__name__)
 memgraph = MemgraphClient(host="ocalhost", port=7687)
 BASE_URL="http://localhost:3000/api/v1"
@@ -53,7 +54,8 @@ async def get_graph():
                         k: v for k, v in target.items()
                         if k not in ['id','name','type']
                     }
-                }    
+            }  
+                
                 links.append({
                 'source': source['id'],
                 'target': target['id'],
