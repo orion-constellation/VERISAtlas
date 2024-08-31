@@ -1,11 +1,12 @@
 # VERISAtlas
 ## Unified Industry Threat Data Analysis  🤗 🦾⚔️ 🤗
 
-![Version](https://img.shields.io/badge/version-v0.0.1-blue)![Release](https://img.shields.io/badge/release-latest-green)![CodeCoverage](https://img.shields.io/codecov/c/gh/orion-constellation/VERISAtlas/main)![Tests](https://github.com/orion-constellation/veris-atlas/actions/workflows/ci.yml/badge.svg?branch=develop)[Tests](https://github.com/orion-constellation/veris-atlas/actions/workflows/ci.yml/badge.svg?branch=main)
+![Version](https://img.shields.io/badge/version-v0.0.1-blue)![Release](https://img.shields.io/badge/release-latest-green)![CodeCoverage](https://img.shields.io/codecov/c/gh/orion-constellation/VERISAtlas/main)![Tests](https://github.com/orion-constellation/VERISAtlas/actions/workflows/ci.yml/badge.svg?branch=develop)
 
 
-Objective
-VERISAtlas aims to unify the VERIS Incident Framework and the MITRE ATT&CK frameworks within a graph-based data structure. The project leverages these frameworks to integrate threat intelligence data, enabling the application of advanced machine learning models to identify hidden connections and predict potential cyber threats. This tool is part of the broader Orion Threat Intelligence constellation, which seeks to provide real-time insights and analysis for cybersecurity professionals.
+## Objective
+
+VERISAtlas aims to add to Orion by unifying the VERIS Incident Framework and the MITRE ATT&CK frameworks within a graph-based data structure. The project leverages these frameworks to integrate threat intelligence data, enabling the application of advanced machine learning models to identify hidden connections and predict potential cyber threats. 
 
 ************ ⚔️
 
